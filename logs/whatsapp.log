@@ -1,0 +1,7 @@
+[2026-04-12 14:32:44] send_failed {"order_id":19,"error":"Twilio credentials are not configured."}
+[2026-04-12 14:42:54] send_failed {"order_id":20,"error":"Twilio credentials are not configured."}
+[2026-04-12 14:45:08] send_failed {"order_id":21,"error":"Twilio credentials are not configured."}
+[2026-04-12 14:47:26] send_failed {"order_id":22,"error":"Twilio credentials are not configured."}
+[2026-04-12 16:14:18] send_failed {"order_id":23,"error":"Twilio credentials are not configured."}
+[2026-04-12 16:15:02] send_failed {"order_id":24,"error":"Twilio credentials are not configured."}
+[2026-04-12 16:17:45] send_failed {"order_id":25,"error":"Twilio credentials are not configured."}
